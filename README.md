@@ -10,4 +10,6 @@ You can create chat apps, chat bots and use web-socket channel to receive and se
 
 I also cannot share the latest version of the app, I'm sorry :( 
 
+You also also check websocket channels working on websocketking.com or if you're familiar with Postman, you can use that too.
+
 This is Ribence-The Web Scraper App V1
