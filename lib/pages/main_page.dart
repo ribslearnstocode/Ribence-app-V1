@@ -27,7 +27,7 @@ class _MyHomePageState extends State<MyHomePage> {
     socketBloc.initboolIsDisplay();
     channel = WebSocketChannel.connect(
       // Uri.parse('wss://echo.websocket.events'),
-      Uri.parse('wss://final-app-rewasoft.herokuapp.com'),
+      Uri.parse('wss://(CHANNEL HIDDEN TO AVOID UNNECESSARY TRAFFIC)'),
     );
   }
 
