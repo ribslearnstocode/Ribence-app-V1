@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+This is the first version and flutter frontend of Ribence-The Web Scanner App where you can host your own websocket channel (read docs:https://websockets.readthedocs.io/en/stable/index.html) 
 
-This project is a starting point for a Flutter application.
+Unfortunatelty, I have removed the WebSocket channel link because it is free hosting and I don't want any unncessary traffic. 
 
-A few resources to get you started if this is your first Flutter project:
+You can create chat apps, chat bots and use web-socket channel to receive and send data to the backend. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I also cannot share the latest version of the app, I'm sorry :( 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is Ribence-The Web Scraper App V1
